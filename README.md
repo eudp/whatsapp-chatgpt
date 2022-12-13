@@ -9,4 +9,5 @@ Whatsapp bot to interact with ChatGPT by OpenAI. All the ChatGPT commands are av
 
 ## Run
 
-`node index.js`
+- `node index.js`
+- Load the QR code into your Whatsapp account. 
